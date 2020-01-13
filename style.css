@@ -1,6 +1,7 @@
 * {
     color: #f0f0f0;
     background-color: #0f0f0f;
+    font-size: xx-large;
 }
 footer {
     position: fixed;
@@ -13,5 +14,4 @@ footer {
 
 a {
     text-decoration: none;
-    font-stze: 2em;
 }
